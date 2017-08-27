@@ -7,8 +7,20 @@ mongodb.
 # Node Modules
 Express , async, mongoose
 
+### Installation
+
+Install the dependencies and devDependencies and start the server.
+
+
+```sh
+$ cd Jetspree-Express-and-node-Test
+$ npm install
+$ node start
+```
+
 # Start the server
-node server/server.js
+-node server/server.js
+-npm start
 
 # API Endpoints
 http://localhost:5000/api/items
