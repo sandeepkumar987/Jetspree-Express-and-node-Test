@@ -15,7 +15,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd Jetspree-Express-and-node-Test
 $ npm install
-$ node start
+$ node start or node server/server.js
 ```
 
 # Start the server
